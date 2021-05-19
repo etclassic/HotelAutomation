@@ -1,6 +1,6 @@
 # HotelAutomation
 
-# Problem Statement
+## Problem Statement
 (Average time to write a solution 4-8 hrs)
 A very prestigious chain of hotels is facing a problem of huge consumption of electricity bills for
 its electronic equipment. The common equipment, like lights, ACs, etc are currently controlled
