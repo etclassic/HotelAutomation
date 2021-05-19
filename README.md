@@ -44,42 +44,7 @@ at the Night-Time.
 * Main corridors per floor: 1
 * Sub corridors per floor: 2
 
-Subsequent Inputs from
-Sensors
-The output from the controller for corresponding sensor input
-The default state (when the
-program is first to run)
-Floor 1
-Main corridor 1 Light 1: ON AC: ON
-Sub corridor 1 Light 1: OFF AC: ON
-Sub corridor 2 Light 2: OFF AC: ON
-Floor 2
-Main corridor 1 Light 1: ON AC: ON
-Sub corridor 1 Light 1: OFF AC: ON
-Sub corridor 2 Light 2: OFF AC: ON
-Movement in Floor 1, Sub
-corridor 2
-Floor 1
-Main corridor 1 Light 1: ON AC: ON
-Sub corridor 1 Light 1: OFF AC: OFF
-Sub corridor 2 Light 2: ON AC: ON
-Floor 2
-Main corridor 1 Light 1: ON AC: ON
-Sub corridor 1 Light 1: OFF AC: ON
-Sub corridor 2 Light 2: OFF AC: ON
-No movement in Floor 1,
-Sub corridor 2 for a
-minute
-Floor 1
-Main corridor 1 Light 1: ON AC: ON
-Sub corridor 1 Light 1: OFF AC: ON
-Sub corridor 2 Light 2: OFF AC: ON
-Floor 2
-Main corridor 1 Light 1: ON AC: ON
-Sub corridor 1 Light 1: OFF AC: ON
-Sub corridor 2 Light 2: OFF AC: ON
-
-
+![snap](https://user-images.githubusercontent.com/84270818/118865820-ff569380-b8fe-11eb-9839-ab6ebd006c8d.png)
 
 
 Since the hotel management is trying this for the first time, it would be changing the
