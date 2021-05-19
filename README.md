@@ -39,7 +39,7 @@ state of all the lights and ACs in the hotel. For simplicity, assume that the co
 at the Night-Time.
 
 
-# Sample input and output below -
+## Sample input and output below
 * Number of floors: 2
 * Main corridors per floor: 1
 * Sub corridors per floor: 2
